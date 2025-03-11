@@ -1,0 +1,15 @@
+.botao{
+    background-color: blue;
+    padding: 200px 200px;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.cor{
+    background-color: red;
+    padding: 200px 200px;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+}
