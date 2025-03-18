@@ -1,0 +1,12 @@
+.azul{
+    background-color: rgb(32, 32, 108);
+    padding: 100px 100px;
+    border: none;
+    cursor: pointer;
+    margin: 3px;
+}
+
+.roxo{
+    background-color: rgb(193, 86, 193);
+    padding: 50px 50px;
+}
