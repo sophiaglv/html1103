@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body.verde{
+    background-color: rgb(173, 230, 173);
+}
+
+body.vermelho{
+    background-color: lightcoral;
+}
+
+body.roxo{
+    background-color: rgb(197, 128, 240);
+}
